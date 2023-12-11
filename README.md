@@ -1,6 +1,10 @@
 # Python-EDA-Air-BNB-2019-Analysis
 EDA Analysis of the dataset Air BNB 2019, understanding of the data and discovering incredible insights with Pandas and NumPy and visualizing the findings and understanding with help of matplotlib and seaborn to solve and drive business decisions.
 
+Air_BNB_2019 V1,V2,V3,V4,V5 are being used for commits only.
+
+Air BNB 2019 FINAL EDA Submission Template.ipynb is the final completed analysis.
+
 
 AIR BNB BOOKIN ANALYSIS
 
