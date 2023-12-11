@@ -20,6 +20,8 @@ Airbnb, Inc., based in San Francisco, California, operates an online marketplace
 # Project Summary
 The Exploratory Data Analysis (EDA) of Airbnb booking analysis is a critical component of the overall project aimed at understanding the various factors that influence customer booking decisions on the Airbnb platform. The EDA will provide insights into the patterns and trends in the booking data and identify any underlying relationships between variables that may impact customer behavior.
 
+Feature engineering attempt/analysis has been done and findings have been compared and described with the approach and the feature involved name variable and the price of that listing.
+
 The EDA will begin with data collection from the Airbnb platform, including information on the listings, their availability, prices, and customer reviews. The data will then be cleaned to remove any missing, inconsistent, or irrelevant information. The next phase of the EDA will involve data analysis to uncover patterns and trends in customer behavior, such as the most popular listing types, the most sought-after amenities, and the factors that impact booking rates.
 
 Data visualization will be used to effectively communicate the insights and findings of the data analysis. A combination of graphs, charts, and maps will be used to showcase the trends and patterns in the data. This will help to identify areas of opportunity and highlight areas that require improvement.
