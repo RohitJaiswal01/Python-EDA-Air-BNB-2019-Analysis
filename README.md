@@ -99,6 +99,9 @@ The last_review and reviews_per_month column may have null values because of "0"
 
 ![image](https://github.com/RohitJaiswal01/Python-EDA-Air-BNB-2019-Analysis/assets/152694882/c5037a66-9829-4cab-b268-15e5c932eae1)
 
+
+![image](https://github.com/RohitJaiswal01/Python-EDA-Air-BNB-2019-Analysis/assets/152694882/aaf0c6df-7dcd-42fb-8722-3a486796d4d3)
+
 ![image](https://github.com/RohitJaiswal01/Python-EDA-Air-BNB-2019-Analysis/assets/152694882/74363d8c-be91-494c-a877-858edac23b17)
 
 
