@@ -106,3 +106,28 @@ The last_review and reviews_per_month column may have null values because of "0"
 
 
 ![image](https://github.com/RohitJaiswal01/Python-EDA-Air-BNB-2019-Analysis/assets/152694882/187b8150-25b3-4994-b71f-ea38fb187e02)
+
+
+# Conclusion 
+
+In this analysis project, about 14 different cases were analyzed on the given dataset to make better business decisions and help analyze trends, which can lead to new and better products and services. It has been found that Most of the Bookings were takes place for the "Manhaton" of around “44.3%" followed by “Brooklyn", “Queens" which has “41.1%" & "11.6%" respectively.
+
+Around 25 % listing having criteria for minumum nights of 1 night only, which is also the minimum night citeria.
+
+Around 75 % listing having minimum nights criteria till 5 nights. Rest 25 % having minimum nights criteria from 5 nights to 1250 nights.
+
+The dataset having availability_365 = 0 also shows that the 75% of listing have Total Count = 1, means the host having single listing on Air BNB is in demand.
+
+We have also analyzed that, Manhattan has the highest range price for the listings with about dollar 140 as an average price, followed by Brooklyn with $90 per night, Queens and Staten Island seem to have a very similar distribution, The Bronx is the cheapest.
+
+Additionally, we also find-out the Top (Host). Preference of Guests w.r.t. Property Type & Room Type. Manhatten have the high price per listing followed by Brooklyn then Queens,Staten island and Bronx.
+
+Entire home/apart have the highest prices as followed by private rooms and then shared room.
+
+Furthermore, we have also been analyzed Customer Reviews/Comments, provided by the Airbnb’s and many more.
+
+The most interesting variables regarding price prediction are: Location
+
+Room type
+calculated_host_listings_count
+Number of review
