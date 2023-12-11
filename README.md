@@ -77,6 +77,9 @@ The last_review and reviews_per_month column may have null values because of "0"
 
 # Tools Used
 1 . Google Colab is used as IDE.
+
 2. Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
+  
 3. For visualization of the plots, Matplotlib and Seaborn are used
+
 ![image](https://github.com/RohitJaiswal01/Python-EDA-Air-BNB-2019-Analysis/assets/152694882/1391eec7-6439-44f3-a189-88e831aaad45)
