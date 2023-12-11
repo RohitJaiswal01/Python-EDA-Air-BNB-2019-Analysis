@@ -89,3 +89,17 @@ The last_review and reviews_per_month column may have null values because of "0"
 3. For visualization of the plots, Matplotlib and Seaborn are used
 
 ![image](https://github.com/RohitJaiswal01/Python-EDA-Air-BNB-2019-Analysis/assets/152694882/1391eec7-6439-44f3-a189-88e831aaad45)
+
+# Data Visualisation some plots
+
+![image](https://github.com/RohitJaiswal01/Python-EDA-Air-BNB-2019-Analysis/assets/152694882/dee82ac2-cafd-486f-b70a-81eb1d0f7af5)
+
+
+![image](https://github.com/RohitJaiswal01/Python-EDA-Air-BNB-2019-Analysis/assets/152694882/d330f842-8c69-4d58-a300-f4c51d1c5b84)
+
+![image](https://github.com/RohitJaiswal01/Python-EDA-Air-BNB-2019-Analysis/assets/152694882/c5037a66-9829-4cab-b268-15e5c932eae1)
+
+![image](https://github.com/RohitJaiswal01/Python-EDA-Air-BNB-2019-Analysis/assets/152694882/74363d8c-be91-494c-a877-858edac23b17)
+
+
+![image](https://github.com/RohitJaiswal01/Python-EDA-Air-BNB-2019-Analysis/assets/152694882/187b8150-25b3-4994-b71f-ea38fb187e02)
