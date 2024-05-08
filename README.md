@@ -55,9 +55,9 @@ name : How is the room. Ex : Clean & quiet apt home by the park, this can be neg
 
 host_id : ID of the host, Data is repeatable, Numerical data .
 
-host_name : Name of the host. This column is neglected, Categorical data .
+host_name : Name of the host. Categorical data .
 
-neighbourhood_group : It is a location borough (a town that has its own goverment ). Brooklyn,Manhattan, Queens, Bronx, Staten Island .
+neighbourhood_group : It is a location . Brooklyn,Manhattan, Queens, Bronx, Staten Island .
 
 Neighbourhood: Area of the location inside neighborhood group.
 
@@ -77,7 +77,7 @@ last_review : Give information regarding last reviews is given in date.
 
 reviews_per_month : Total number of reviews / Days in months
 
-calculated_host_listings_count : The total number of apartments and bedrooms referred to the same landlord.
+calculated_host_listings_count : The total number of apartments and bedrooms referred to the same landlord/ host.
 
 availability_365 : Days it is available in a year
 
