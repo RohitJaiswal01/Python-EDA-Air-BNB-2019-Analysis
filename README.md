@@ -84,7 +84,7 @@ availability_365 : Days it is available in a year
 The last_review and reviews_per_month column may have null values because of "0" number_of_reviews at that destination .
 
 # Tools Used
-1 . Google Colab is used as IDE.
+1 . Google Collab is used as IDE.
 
 2. Pandas and NumPy are used for Data Manipulation & Pre-processing and Mathematical functions respectively.
   
