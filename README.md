@@ -3,13 +3,13 @@ EDA Analysis of the dataset Air BNB 2019, understanding of the data and discover
 
 Air_BNB_2019 V1,V2,V3,V4,V5 are being used for commits only.
 
-Air BNB 2019 FINAL EDA Submission Template.ipynb is the final completed analysis.
+Air BNB 2019 FINAL EDA Submission .ipynb is the final completed analysis.
 
 # Presentation Video
 https://drive.google.com/file/d/1jrKpN4_qShHnPsIMiEmF7lGLg-RPh8KA/view?usp=drive_link
 
 
-# AIR BNB BOOKIN ANALYSIS
+# AIR BNB BOOKING ANALYSIS
 
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present a more unique, personalized way of experiencing the world. Today, Airbnb became one of a kind service that is used and recognized by the whole world. Data analysis on millions of listings provided through Airbnb is a crucial factor for the company. These millions of listings generate a lot of data - data that can be analyzed and used for security, business decisions, understanding of customers' and providers' (hosts) behavior and performance on the platform, guiding marketing initiatives, implementation of innovative additional services and much more. This dataset has around 49,000 observations in it with 16 columns and it is a mix between categorical and numeric values.
 
