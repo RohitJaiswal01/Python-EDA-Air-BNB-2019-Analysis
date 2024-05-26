@@ -5,6 +5,9 @@ Air_BNB_2019 V1,V2,V3,V4,V5 are being used for commits only.
 
 Air BNB 2019 FINAL EDA Submission Template.ipynb is the final completed analysis.
 
+# Presentation Video
+https://drive.google.com/file/d/1jrKpN4_qShHnPsIMiEmF7lGLg-RPh8KA/view?usp=drive_link
+
 
 # AIR BNB BOOKIN ANALYSIS
 
